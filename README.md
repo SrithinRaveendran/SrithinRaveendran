@@ -32,7 +32,6 @@ Whether it’s a script that automates a tiny task or a full-stack app that scal
 ---
 
 ### 📫 Connect
-- 🌍 [GitHub]([https://github.com/Srithin](https://github.com/SrithinRaveendran))
 -  🌍[LinkedIn](www.linkedin.com/in/srithin-raveendran-4690b11ba) 
 - 💬 Open to collaboration, discussions, and wild ideas  
 
