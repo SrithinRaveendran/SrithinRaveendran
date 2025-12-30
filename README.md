@@ -15,8 +15,8 @@ I enjoy exploring the intersection of logic and creativity — building, breakin
 ### ⚙️ Tech & Tools I Enjoy
 - **Languages:** Python, JavaScript
 - **Frameworks:** React, Node.js, Express  
-- **Tools:** Git, VS Code, Linux  
-- **Currently Exploring:** AI/ML concepts, system design, and automation  
+- **Tools:** Git, VS Code  
+- **Currently Exploring:** web development,AI/ML concepts  
 
 ---
 
